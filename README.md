@@ -1,3 +1,3 @@
 # Java-pre-course
 CodeSquad Java pre-course
-## *ÇÑ°è´Â ÇÑ ´Ü°èÀÏ »Ó!*
+## *í•œê³„ëŠ” í•œ ë‹¨ê³„ì¼ ë¿!*
