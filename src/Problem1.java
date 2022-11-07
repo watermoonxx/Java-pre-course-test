@@ -1,6 +1,5 @@
-
 public class Problem1 {
-
+	
 	public static void main(String[] args) {
 		
 		char[] alphaArray = new char[26];
